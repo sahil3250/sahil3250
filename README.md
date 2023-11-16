@@ -20,7 +20,12 @@ I'm a full-stack software developer that just recently graduated with honours fr
 <div align="display: flex; align-items: left;">
 <details align="left">
 <summary><h3 role="heading" >About Me</h3></summary>
-<p>saddasssssss</p>
+<p> Sahilpreet Singh is an accomplished and forward-thinking professional with a diverse background and a rich tapestry of experiences that have meticulously shaped his professional journey. He graduated with honors, earning a distinguished degree in Computer Programming from the esteemed Seneca College.
+  
+In 2021, Sahilpreet embarked on a significant transition, relocating from India to Canada. His collegiate journey was marked by active engagement in diverse projects, each playing a pivotal role in honing his technological expertise. These projects not only demonstrated his commitment to academic excellence but also served as practical foundations for building a robust understanding of various facets within the technology domain.
+
+Armed with his recent graduation with honors and an exceptional academic record in computer programming, Sahilpreet is strategically positioned to excel in the technology sector. His global perspective, skills, and dedication make him an invaluable asset, poised to make substantial contributions to any forward-thinking organization or transformative project in the field.
+</p>
 
 </details>
 </div>
