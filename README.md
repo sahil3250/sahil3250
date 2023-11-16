@@ -3,6 +3,8 @@
 
 **`Full-stack Software Developer `**
 
+I'm a full-stack software developer that just recently graduated with honours from seneca college ready to embark on my digital journey one step at a time. All coding projects are coded by me from the ground up for school-workshops, school-projects, personal-projects, tutorials and code reviews, from ideation and planning, all the way to finalizing the project with my own personal touches. Welcome and lets start this journey together! [Portfolio](https://test-4mxv.vercel.app/)
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil3250&label=Profile%20views&color=0e75b6&style=flat" alt="sahil3250" /> </p>
 
 <h3 align="left">Connect with me:</h3>
